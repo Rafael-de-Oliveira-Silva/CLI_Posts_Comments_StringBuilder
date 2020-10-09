@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLI_Postagem_Comentarios_CompositionStringBuilder", "CLI_Postagem_Comentarios_CompositionStringBuilder\CLI_Postagem_Comentarios_CompositionStringBuilder.csproj", "{8BDFF0EB-03AA-451C-84E5-FFB3140024BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDFF0EB-03AA-451C-84E5-FFB3140024BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDFF0EB-03AA-451C-84E5-FFB3140024BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDFF0EB-03AA-451C-84E5-FFB3140024BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDFF0EB-03AA-451C-84E5-FFB3140024BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB44BAC1-EA76-4A37-935A-BFAC3311B02A}
+	EndGlobalSection
+EndGlobal
